@@ -38,7 +38,7 @@
 ```yaml
 # ══════ IDENTITY ══════
 entity:
-  name:      "Muhammadjon Kosimov"
+  FullName:      "Muhammadjon Kosimov"
   handle:    "@Muhammadjon0204"
   location:  "Dushanbe, Tajikistan 🇹🇯"
   timezone:  "UTC+5"
