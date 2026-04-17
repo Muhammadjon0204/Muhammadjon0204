@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&secondaryColor=512BD4&height=250&section=header&text=Muhammadjon%20Kosimov&fontSize=75&animation=twinkling&fontAlignY=35&desc=Backend%20Engineer%20|%20.NET%20Expert&descAlignY=60&descSize=25" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=7aa2f7&text=Muhammadjon%20Kosimov&fontSize=70&animation=fadeIn&fontAlignY=40&secondaryText=Backend%20Engineer%20|%20.NET%20Expert&secondaryTextSize=25&secondaryTextColor=512BD4" width="100%" />
 
   <br/>
 
@@ -37,7 +37,6 @@
   <a href="https://redis.io/documentation" target="_blank"><img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" /></a>
   <a href="https://docs.docker.com/" target="_blank"><img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" /></a>
   <a href="https://git-scm.com/doc" target="_blank"><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" /></a>
-  <a href="https://en.cppreference.com/" target="_blank"><img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" /></a>
 </div>
 
 <br/>
