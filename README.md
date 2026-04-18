@@ -29,7 +29,7 @@
 
 ```yaml
 identity:
-  name:     Muhammadjon Kosimov
+  FullName:     Muhammadjon Kosimov
   role:     Backend Engineer
   location: Dushanbe, Tajikistan 🇹🇯
   timezone: UTC+5
